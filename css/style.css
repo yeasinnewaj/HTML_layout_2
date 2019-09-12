@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.logo{ height: 50px;
+	background-color: grey;
+	text-align: center;
+
+}
+
+h4{
+	    font-size: 30px;
+    padding: 15px;
+    text-align: center;
+}
+
+.nav{
+	height:60px;
+	background-color: grey;
+	text-align: center;
+	margin: 15px 0px;
+}
+
+.banner{
+	height:120px;
+	background-color: grey;
+	text-align: center;
+	margin: 15px 0px;
+}
+.content-wrapper{overflow: hidden;
+
+}
+.sidebar{
+	width: 25%;
+	background-color:grey;
+	height: 600px;
+	float: left;
+}
+.bodyarea{
+	width: 70%;
+	background-color:grey;
+	height: 600px;
+	float: right;
+}
+.footer{
+	background-color: grey;
+	height: 50px;
+	margin-top: 10px;
+}
